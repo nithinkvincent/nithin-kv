@@ -1,0 +1,6 @@
+The goodies selected for distribution are:
+
+Microwave Oven: 9800
+Fitbit Plus: 7980
+
+And the difference between the chosen goodie with highest price and the lowest price is 1820
